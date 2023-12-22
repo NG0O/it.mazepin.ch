@@ -1,0 +1,26 @@
+For the best editing experience, upload this .csv as a rubric in Microsoft Teams.;Eigene Bewertung
+;
+"M143_LB_Projektarbeit,""""";
+;
+;
+",""1"",""2"",""3"",""4""";
+"Datensicherheitskonzept
+A1,""kein Konzept vorhanden"",""Ich kann die Rahmenbedingungen und Vorschriften, die bei einem Datensicherungssystem zu beachten sind, erklären und wesentliche Einflussfaktoren aufzählen."",""Ich kann technische und personelle Risiken eines Datensicherungssystems einschätzen und dabei passende Einflussfaktoren bei der Erstellung eines Datensicherungskonzepts berücksichtigen."",""Ich kann vorhandene Datensicherungssysteme analysieren und unter Berücksichtigung von Rahmenbedingungen, Vorschriften und erhobene Daten (Einflussfaktoren) ein Datensicherungskonzept entwickeln und fachgerecht darstellen.""";3
+"Datensicherheitskonzept
+A2,""kein Konzept vorhanden"",""Ich kann unterschiedliche Datensicherungsverfahren und -technologien erklären und begründen."",""Ich kann Kriterien berücksichtigen, die einen effizienten Einsatz von Backup- und Restore-Systemen ermöglichen. Zudem kann ich das optimale Datensicherungsverfahren für ein Datensicherungskonzept bestimmen."",""Ich kann anhand von aktuellen technischen Lösungen ein optimales Datensicherungsverfahren auswählen. Ich berücksichtige bei der Entwicklung des Datensicherungskonzepts anspruchsvolle Einflussfaktoren und weiss, wie diese bei der Realisierung technisch umgesetzt werden.""";3
+"Machbarkeit
+B1,""keine Machbarkeitsüberprüfung vorhanden"",""Ich kann Kriterien aufzählen, die bei der Machbarkeitsprüfung eines Datensicherungskonzepts berücksichtigt werden sollten."",""Ich kann zwischen technischen und betriebswirtschaftlichen Kriteren unterscheiden und begründen, welche Einflüsse diese auf die Machbarkeit eines Datensicherungskonzepts haben."",""Ich kann aufgrund von technischen und betriebswirtschaftlichen Kriterien ein individualisiertes Datensicherungskonzept erstellen und auf Machbarkeit überprüfen.""";2
+"Bedarfsermittlung
+C1,""keine Bedarfsermittlung vorhanden"",""Ich kann anhand von Vorgaben den Speicherbedarf ermitteln und kenne die Einsatzmerkmale von Backupgeräten und Speichermedien."",""Ich kann anhand von Vorgaben den Speicherbedarf ermitteln und technisch angemessene Lösungen (Geräte, Speichermedien) erheben."",""Ich kann den aktuellen und längerfristigen Speicherbedarf ermitteln und individualisierte Lösungen (Geräte, Speichermedien) sowie optimale Datenstandorte (On-Prem, Cloud) ausarbeiten und anbieten.""";2
+"Sicherungsprozeduren
+D1,""keine Sicherungsprozeduren erarbeitet"",""Ich kann verschiedene Befehle, welche für die Erstellung von Sicherungs- und Wiederherstellungsprozeduren notwendig sind, erklären."",""Ich kann ein bestehendes Script, welches für die Sicherungs- und Wiederherstellung von Daten genutzt wird, verstehen und bestimmten Anforderungen anpassen."",""Ich kann selbständig eine funktionsfähige Sicherungs- und Wiederherstellungsprozedur erstellen, automatisieren, testen und individuellen Anforderungen anpassen.""";3
+"Sicherungsprozeduren
+D2,""Wiederherstellung wird nicht getestet"",""Ich kann feststellen, ob eine Sicherungs- und Wiederherstellungsprozedur korrekt funktioniert."",""Ich kann überprüfen, ob eine bestehende Sicherungs- und Wiederherstellungsprozedur funktioniert und bei Bedarf entsprechende Massnahemen einleiten."",""Ich kann eine bestehenden Sicherung- und Wiederherstellungsprozedur erstellen, prüfen, automatisieren und bei Bedarf optimieren oder anpassen.""";3
+"Sicherungsprozeduren
+D3,""Dokumentation zur Wiederherstellung fehlt"",""Ich kann wesentliche Aspekte einer Sicherungs- und Wiederherstellungsprozedur erklären und dokumentieren."",""Ich kann eine verständliche Dokumentation einer Sicherungs- und Wiederherstellungsprozedur erstellen."",""Ich kann eine vollständige Dokumentation einer Sicherungs- und Wiederherstellungsprozedur erstellen, welche die Konfiguration sowie die Funktionalität dazu nachvollziehbar abbildet.Ich kann eine verständliche Dokumentation einer Sicherungs- und Wiederherstellungsprozedur erstellen.""";3
+"System- und Betriebsdokumentation
+E1,""keine System- und Betriebsdokumentation vorhanden"",""Ich kann begründen, weshalb eine aktuell nachgeführte Betriebs- und Wartungsdokumentation notwendig ist."",""Ich kann eine System- und Betriebsdokumentation erstellen."",""Ich kann eine umfangreiche und visualisierte System- und Betriebsdokumentation erstellen.""";2
+"System und Betriebsdokumentation
+E2,""kein Testprotokoll vorhanden"",""Ich kenne den Nutzen eines Testprotokolls."",""Ich kann ein Testszenario erarbeiten und die nötigen Systemtests ausführen und dokumentieren."",""Ich kann ein umfangreiches Testszenario für bestimmte Funktionalitäten erarbeiten und die erforderlichen Systemtests ausführen und dokumentieren.""";3
+"Zusatzfunktionen und oder Überlegungen,""keine Zusatzfunktionen und oder Überlegungen vorhanden"",""Eine Zusatzfunktionen und oder Überlegung ist vorhanden."",""Mehrere Zusatzfunktionen und oder Überlegungen sind vorhanden."",""Die erreichte Funktionalität und Qualität der Arbeit ist insgesamt deutlich über den Erwartungen.""";3
+v.11;
