@@ -1,0 +1,54 @@
+/* Grundlegende Stildefinitionen */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  section h2 {
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+  }
+  
+  ul li a:hover {
+    text-decoration: underline;
+  }
+
+  
+  footer {
+    text-align: center;
+  }

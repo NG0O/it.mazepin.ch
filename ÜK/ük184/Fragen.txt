@@ -1,0 +1,83 @@
+
+
+1.  Wie unterscheidet sich ein Keylogger von einem Tool wie Hydra?
+    Keylogger machen ein logg file das von hydra für die passwort überprüfung eingestzt werden kann.
+
+2.  Was ist eine Fragmentation Attack?
+    Normalen Betriebsabläufe von Netzwerken oder Hosts zu stören, indem Schwächen in der Handhabung fragmentierter Pakete ausgenutzt werden.
+
+3.  Wie unterscheidet sich eine SYN-Flood Attacke von einem DDoS Angriff?
+    Syn flood kommt von einem Gerät und DDOS von mehreren.
+
+4.  Nennen Sie DDoS Angriffsformen
+    ping flood, udp flood, http flood ect
+
+5.  Wie schützen Sie ihr Unternehmen vor Angriffen auf den TCP/IP Stack des Betriebssystems?
+    Firewall, Intrusion detection etc
+
+6.  Welche Voraussetzung benötigt ein Angreifer, um sich per ARP Poisioning in eine MITM Position zu bringen?
+    Muss im Lokalen Netzwerk sein.
+
+7.  Aus welchem Grund macht ein Angreifer zuerst ARP Poisioning, um anschliessend DNS Spoofing zu betreiben?
+    Zuerst wird er eine mac ip spoofen um dan die DNS request zu manipulieren.
+
+8.  Kennen Sie andere Möglichkeiten um einem Client falsche DNS Antworten zuzuspielen?
+    Man in the Middel, DNS Cache Poisoning
+
+9.  Warum ist eine grosse Broadcast Domain unsicher?
+    Weill alle im gleichen Netz.
+
+10. Weshalb sollte man heute die Protokolle FTP und Telnet nicht mehr verwenden?
+    Weil sie unverschlüsselt sind.
+
+11. Wozu dient der SSH Hostkey?
+    Anmelden ohne Passwort
+
+12. Wie führen Sie eine Host Discovery mit arp-scan und mit nmap durch?
+    sudo arp-scan --localnet, sudo nmap -sn 192.168.1.0/24
+
+
+1.  Was ist der Unterschied zwischen Endpoint- und Perimeter-Security?
+    Perimeter für ganzes Netz.
+
+2.  Was bedeutet Zone Based Firewall?
+    Bessere Kontrolle über Netz
+
+3.  Wozu dienen die Firewall Zonen LAN, DMZ und WAN?
+    Lan für internes Netz Dmz für server gegen aussen erreichbar und Wan für internet access
+
+4.  Wie unterscheidet sich Ihre OPNSense Firewall von der Windows Firewall?
+    Opnsense ist physisch
+
+5.  Was macht ein Paketfilter?
+    Basieren auf bestimmten Merkmalen eines Pakets, wie Quell- und Zieladressen, Ports, Protokollen und anderen Header-Informationen.
+
+6.  Wie unterscheiden sich Stateful und Stateless Inspection?
+    Stateful Inspection ist oft präziser und effektiver, Stateless Inspection hingegen ist einfacher und kann schneller 
+
+7.  Welche Aufgaben übernimmt ein Application Layer Gateway?
+    Application Layer Gateway eine tiefgreifende Kontrolle und Anpassung der Netzwerkkommunikation auf Anwendungsebene, was besonders wichtig ist, wenn spezifische Anwendungsprotokolle oder -anforderungen berücksichtigt werden müssen.
+
+8.  Weshalb erhöht NAT die Sicherheit Ihres Netzwerks?
+    Weil die Richtige ip nicht direk exposed wird
+
+9.  Wie unterscheiden sich positive und negative Firewall Regeln?
+    pistive lassen einzelne durch von nichts negative sperren gewisse von allen.
+
+10. Was macht die Default Policy einer Firewall?
+    Sie sag was durkommt und wass nicht
+
+11. Was bedeutet die Default Policy Deny/Drop All?
+    Dass nichts durch kommt
+
+12. Welche Aktionen kann eine Firewall-Regel auslösen?
+    so kann machen oder verhindern dass ein packet durch kommt
+
+13. Wie unterscheiden sich die Aktionen Drop/Deny und Reject?
+    
+    Drop: Der Datenverkehr wird stillschweigend ignoriert, ohne eine spezifische Rückmeldung an den Absender zu senden.
+
+    Deny (Ablehnen): Der Datenverkehr wird abgelehnt, und eine Rückmeldung wird an den Absender gesendet, um ihn über die Ablehnung zu informieren.
+
+    Reject (Zurückweisen): Ähnlich wie "Deny", jedoch kann der Begriff in verschiedenen Kontexten unterschiedlich interpretiert werden. Es kann darauf hinweisen, dass der Datenverkehr aktiv abgelehnt wird, und eine Ablehnungsnachricht an den Absender gesendet wird.
+    
